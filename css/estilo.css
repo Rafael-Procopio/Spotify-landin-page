@@ -244,10 +244,10 @@ h3{
 .login h2{
     color: white;
     text-shadow: 
-        -1px -1px 0 black,  
-         1px -1px 0 black,
-        -1px  1px 0 black,
-         1px  1px 0 black;
+    -1px -1px 0 black,  
+    1px -1px 0 black,
+    -1px  1px 0 black,
+    1px  1px 0 black;
 }
 
 .button{
@@ -264,3 +264,12 @@ h3{
     display: block;
     
 } 
+
+.register h2{
+    color: white;
+    text-shadow: 
+    -1px -1px 0 black,  
+    1px -1px 0 black,
+    -1px  1px 0 black,
+    1px  1px 0 black;
+}
