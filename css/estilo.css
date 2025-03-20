@@ -254,6 +254,8 @@ h3{
     margin-top: 30px;
     color: white;
     background-color: #6207e3;
+    padding: 10px 50px;
+    border-radius: 100px;
 }
 
 .button:hover{
@@ -273,3 +275,16 @@ h3{
     -1px  1px 0 black,
     1px  1px 0 black;
 }
+
+.register input{
+    border-radius: 100px;
+    padding: 10px 50px;
+    background-color: #f1f1f1;
+}       
+
+.login_form input{
+    border-radius: 100px;
+    padding: 10px 50px;
+    background-color: #f1f1f1;
+}
+
